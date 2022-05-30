@@ -1,2 +1,1 @@
 social-brute-force==0.0.1
-kmy-beautify==0.6.0
