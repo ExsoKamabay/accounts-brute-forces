@@ -10,7 +10,7 @@ git clone https://github.com/ExsoKamabay/accounts-brute-forces/ && cd accounts-b
 # ***```install requires and run```***
 
 ```python
-pip install requirements.txt && social_brute_force.py
+pip install requirements.txt && accounts_brute_force.py
 ```
 
 ![img](/screenshoot.png)
